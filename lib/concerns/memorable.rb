@@ -1,2 +1,2 @@
-Module memorable
+module Memorable
 end
